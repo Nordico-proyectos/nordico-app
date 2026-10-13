@@ -11,7 +11,7 @@ Cada versión se publica en [Releases](../../releases) con su APK y la lista de 
 3. Abrí el archivo descargado. Si Android lo pide, permití **instalar apps de fuentes desconocidas** para el navegador o el gestor de archivos.
 4. Abrí la app e iniciá sesión con tu usuario.
 
-> Si ya tenés la app instalada, la versión nueva se instala encima y conserva la sesión. Si Android muestra "App no instalada", desinstalá la anterior y volvé a instalar.
+> **Antes de instalar, desinstalá la versión anterior de la app** (la que llegó por Firebase). Después instalá el APK nuevo e iniciá sesión de nuevo.
 
 ## Actualizaciones
 
